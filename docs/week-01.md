@@ -41,3 +41,4 @@ nav_order: 2
 > [온라인 노트](https://uos-bigdata.github.io/bigdatabook/intro.html) 사용법 소개
 
 
+[강의슬라이드](https://ilovedata.github.io/intro_bigdata/slides/colab-start.pdf){: .btn .btn-purple } 
