@@ -1,6 +1,6 @@
 # 빅데이터개론2 모듈 구성 
 
-이 사이트는 빅데이터개론2 강의를 구선하는 모듈이 구조를 설명하는 공간입니다.
+이 사이트는 빅데이터개론2 강의를 구성하는 모듈의 구조를 설명하는 공간입니다.
 
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/

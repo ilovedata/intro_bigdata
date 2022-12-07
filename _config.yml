@@ -4,5 +4,33 @@ theme: just-the-docs
 
 url: https://ilovedata.github.io/intro_bigdata
 
+logo: "/assets/images/logo.png"
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+heading_anchors: true
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: 기억하세요!
+    color: blue
+  new:
+    title: 새로운 내용입니다!
+    color: green
+  note:
+    title: 참고하세요!
+    color: purple
+  warning:
+    title: 경고!
+    color: red
+  contents:
+    title: 학습내용 요약
+    color: grey-dk
+    opacity: 0.2
