@@ -38,7 +38,6 @@ nav_order: 2
  
 ### 모듈 5-4: 데이터프레임에 대한 방법 복습 
 
-
-+ [슬라이드](/slides/dataframe.pdf)
+- [슬라이드](https://ilovedata.github.io/intro_bigdata/slides/dataframe.pdf){: .btn .btn-purple } 
  
 
