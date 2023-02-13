@@ -1,33 +1,32 @@
 ---
-title: 8주차
+title: 9주차
 layout: default
 nav_order: 2
 ---
 
 
-## 8 주차
+## 9 주차
 
-### 모듈 8-1: 확률의 기초 2
+### 모듈 9-1: 표본과 정보
 
-- 독립 시행과 표본공간
-- 확률의 덧셈
-- 확률의 곱셈
-
-- [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/05/data_probability.html#id10)
-
-### 모듈 8-2: 함수 1
-
-- 함수의 기초사용법
-- 시용자 함수의 정의
-- 함수와 메소드
-
-+ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/05/data_function.html#id2)
+- 데이터의 품질
+- 모집단과 표본
+- 확률표본의 추출과 분포
 
 
-### 모듈 8-3: 함수 2
+- [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/06/sample.html)
 
-- 데이터프레임과 함수
-- 함수의 데이터 취급
-- 예제: 윷놀이 확률
-+ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/05/data_function.html#id11)
+### 모듈 9-2: 통계량의 분포 1
+
+- 모집단과 확률표본
+- 확률표본의 정확한 분포
+
++ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/06/samplemeans.html)
+
+
+### 모듈 9-3: 통계량의 분포 2
+
+- 확률표본의 경험적 분포
+
++ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/06/samplemeans.html#id8)
  
