@@ -1,0 +1,35 @@
+---
+title: 12주차
+layout: default
+nav_order: 2
+---
+
+
+## 12 주차
+
+### 모듈 13-1: 두 그룹의 비교 1
+
+- 공정한 비교: 임의화
+- 검정통계량
+
+
+- [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/07/decision.html)
+
+### 모듈 13-2: 두 그룹의 비교 2 
+
+- A/B 검정
+- 예제: 임상실험 
+
+
+
++ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/07/abtest.html#a-b)
+
+
+### 모듈 13-3: 두 변수와의 관계
+
+- 아버지와 아들의 키
+- 상관관계
+- 변수의 표준화
+
++ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/08/correlation.html#)
+ 
