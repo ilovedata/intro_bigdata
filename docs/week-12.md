@@ -24,12 +24,3 @@ nav_order: 2
 
 + [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/07/abtest.html#a-b)
 
-
-### 모듈 12-3: 두 변수와의 관계
-
-- 아버지와 아들의 키
-- 상관관계
-- 변수의 표준화
-
-+ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/08/correlation.html#)
- 
