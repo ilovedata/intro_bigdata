@@ -7,7 +7,17 @@ nav_order: 2
 
 ## 14 주차
 
-### 모듈 14-1: 분류와 예측 모형
+
+### 모듈 14-1: 분류의 기초
+
+- 분류의 개념
+- 데이터의 구조와 전처리
+
+
++ [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/08/classification.html#)
+ 
+
+### 모듈 14-2: 분류와 예측 모형
 
 - 로지스틱 회귀모형
 - 기게학습 모형
@@ -15,7 +25,7 @@ nav_order: 2
 
 - [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/08/classification.html#id7)
 
-### 모듈 14-2: 분류의 평가 1
+### 모듈 14-3: 분류의 평가 1
 
 
 - 분류평가의 기준 
@@ -25,7 +35,7 @@ nav_order: 2
 + [온라인 노트](https://uos-bigdata.github.io/bigdatabook/chapters/08/validation.html#)
 
 
-### 모듈 14-3: 분류의 평가 2
+### 모듈 14-4: 분류의 평가 2
 
 - 예측의 정확성
 - 기게학습 방법의 평가
