@@ -36,7 +36,7 @@ nav_order: 1
 
 ---
 
-[예제 데이터](/assets/data/fire_calling_summary.csv)
+[예제 데이터](assets/data/fire_calling_summary.csv)
 
 
 
@@ -46,4 +46,5 @@ nav_order: 1
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[def]: /assets/data/fire_calling_summary.csv
 
