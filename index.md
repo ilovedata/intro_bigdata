@@ -36,7 +36,7 @@ nav_order: 1
 
 ---
 
-[예제 데이터](intro_bigdata/assets/data/fire_calling_summary.csv)
+[예제 데이터](assets/data/fire_calling_summary.csv)
 
 
 
