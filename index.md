@@ -34,7 +34,9 @@ nav_order: 1
 
 [빅데이터개론2 온라인 교과서](https://uos-bigdata.github.io/bigdatabook/intro.html){: .btn .btn-purple } 
 
+---
 
+[예제 데이터](/assets/data/fire_calling_summary.csv)
 
 
 
